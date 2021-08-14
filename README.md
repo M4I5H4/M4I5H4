@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi I'm Maisha, nice to meeet you!👋
 
+:mortar_board: I am currently learning how to code through a program provided by **Black CodHer**
+
+:musical_score: I am  a music teacher by day and my main instruments are steel pan and drum kit!
+
+:sunglasses: I am looking forward to making this readme more intresting as I learn more skills.
 <!--
 **M4I5H4/M4I5H4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
